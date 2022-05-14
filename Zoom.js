@@ -4,4 +4,4 @@ function zoom(scale) {
     document.body.style.width = (100 / scale) + "%";
     document.body.style.height = (100 / scale) + "%";
 };
-zoom(0.5);
+zoom(2);
